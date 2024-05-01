@@ -1,0 +1,60 @@
+[
+    {
+      "id":1,
+      "img": "bib",
+      "title": "Presentation",
+      
+      "text": [
+          "La bibiliothèque propose de vous aider pour effectuer vos recherches rapidement et efficacement, en mettant à votre disposition l'information et/ou la documentation fiable et précise dont vous avez besoin, dans les meilleurs délais."  ],
+          
+       
+      
+      "Description": [
+          "La bibiliothèque propose de vous aider pour effectuer vos recherches rapidement et efficacement, en mettant à votre disposition l'information et/ou la documentation fiable et précise dont vous avez besoin, dans les meilleurs délais.",
+          "La tenue à la disposition des chercheurs, d'une documentation constamment mise à jour (ouvrages de références, revues scientifiques, technique et professionnelles) qui leur permet de trouver soit des solutions, soit des éléments de solutions aux problèmes techniques auxquels ils sont confrontés.",
+          "Notre fonds documentaire compte plus de 41814 références bibliographiques entre ouvrages, thèses, mémoires de fin d'études, documents de formation, tirés à part d'articles, Dictionnaires et Handbook en version anglaise et française.",
+          "Notre responsabilité doit, prioritairement, s'attacher aux orientations assignées par la hiérarchie et selon les objectifs de nos structures. C'est sur cette base que nous adoptons notre politique d'acquisition. Cette dernière est fondée essentiellement, sur l'achat des ouvrages, des périodiques, le dépôt des thèses et mémoires de fin d'études."
+        ],
+        "Btn" : "Voir plus"
+    },
+    {
+      "id":2,
+      "img": "bib",
+      "title":  "Système d'Informations",
+      "text": ["Une panoplie de documents dans les domaines de :",
+      "Finformatique Langage Informatique, Conception et Implémentation de Base de Données, Réseaux et Sécurité Réseaux...etc.),",
+      " Sciences de l'Information, la Documentation et des Archives ainsi que de la communication."],
+      "link": "./Login",
+      "Btn" : "Consulter"
+    },
+    {
+      "id":3,
+      "img": "bib",
+      "title": "English Learning",
+      "text": "Une panpolie de livres et de support pour apprendre l'anglais.",
+      "link": "#",
+      "Btn" : "Consulter"
+    },
+    {
+      "id":4,
+      "img": "bib",
+      "title": "Oil and Gas",
+      "text": ["Des livres de documentation sur OlL and Gaz entre autres le Forage et Production des Hydrocarbures,",
+                " la Maintenance Pétrolière, le Raffinage Pétrochimie et Gaz, ",
+                "le Transport des Hydrocarbures, ",
+                "les Energies Renouvelable…ect."],
+      "link": "#",
+      "Btn" : "Consulter"
+    },
+    {
+      "id":5,
+      "img": "bib",
+      "title": "Physico-Chimie",
+      "text": ["Des livres de documentation sur la physico-chimie,",
+      " entre autres la chimie minérale,",
+      " la chimie organique, la chimie industrielle, la thermodynamique, le raffinage, la corrosion, traitement des eaux, l'environnement, chromatographie, techniques des puits, reservoirs, mecanique des roches…ect"],
+      "link": "#",
+      "Btn" : "Consulter"
+    }
+  ]
+  

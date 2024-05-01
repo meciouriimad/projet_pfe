@@ -1,0 +1,92 @@
+/* .Formulaire {
+  margin: 5% auto;
+  padding: 5%;
+  font-size: larger; 
+  text-align: left;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px; 
+  width: 52rem;
+}
+
+.form-label {
+  margin-bottom: 1rem; 
+  display: block;
+  font-weight: bold;
+}
+
+
+
+.form-group {
+  margin-bottom: 2rem; 
+}
+
+.btn {
+  color: #fff;
+  background-color: #ec7e00;
+  border-color: #ec7e00;
+  padding: 0.5rem 1rem; 
+  border-radius: 0.5rem;
+  cursor: pointer; 
+  transition: background-color 0.3s ease;
+  margin-top: 0.5rem; 
+  margin-right: 10px;
+}
+
+.btn:hover {
+  background-color: #cd6116; 
+}
+.btn:active {
+  background-color: #ec7e00;
+} */
+
+
+.Formulaire {
+  margin: 5% auto;
+  padding: 2%; /* Réduire le padding */
+  font-size: medium; /* Réduire la taille de la police */
+  text-align: left;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  width: 40rem; /* Réduire la largeur */
+
+}
+
+.form-label {
+  margin-bottom: 0.5rem; /* Réduire la marge inférieure */
+  display: block;
+  font-weight: bold;
+}
+.form-control{
+  height: 1.9rem;
+}
+.form-control,
+.form-select {
+  font-size: 0.9rem; /* Réduire la taille de la police */
+  margin-bottom: 0.9rem; /* Réduire la marge entre les champs */
+  line-height: 1;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.5rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-group {
+  margin-bottom: 1.5rem; /* Réduire la marge inférieure */
+}
+
+.btn {
+  color: #fff;
+  background-color: #ec7e00;
+  border-color: #ec7e00;
+  padding: 0.3rem 0.8rem; /* Réduire le padding */
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 0.3rem; /* Réduire la marge supérieure */
+  margin-right: 5px; /* Réduire la marge droite */
+}
+.required {
+  color: red; /* Couleur rouge pour les étoiles */
+}

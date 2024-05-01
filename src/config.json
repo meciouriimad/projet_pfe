@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Gestion des Ouvrages",
+        "text": "Gestion et mise à jour des ouvrages scientifiques et techniques du fond documentaire (Géologie, Physico-Chimie, Informatique) de la Division Laboratoires.",
+        "img": "bib",
+        "link":"./FormStagiaire"
+    },
+    {
+        "title": "Gestion des Normes",
+        "text": "Le Service Documentation s'occupe de la gestion des normes internationales et de leur mise à disposition aux différents laboratoires dans le cadre leur utilisation pour la normalisation",
+        "img": "bib",
+        "link":""
+    },
+    {
+        "title": "Gestion des Prêts",
+        "text": "Gestion et mise à jour des prêts ouvrages scientifiques et techniques consultes ou prêtés par les agents de la Division Laboratoires.",
+        "img": "bib",
+        "link":""
+    },
+    {
+        "title": "Gestion des Prêts",
+        "text": "Gestion et mise à jour des prêts ouvrages scientifiques et techniques consultes ou prêtés par les agents de la Division Laboratoires.",
+        "img": "bib",
+        "link":""
+    }
+]

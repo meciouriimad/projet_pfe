@@ -1,0 +1,28 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #ec7e00;
+  color: #fff;
+  font-size: 1rem;
+  
+}
+.footer.footer-fixed {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.footer-container p {
+  margin: 2px 0; 
+}
+
+footer {
+  margin: 0 auto; 
+}
+
+.titre-form {
+  text-align: center;
+  margin-bottom: 19px;
+}

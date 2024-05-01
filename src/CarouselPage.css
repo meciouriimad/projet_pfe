@@ -1,0 +1,45 @@
+.carousel-indicators [data-bs-target] {
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+
+.carousel-image-container {
+    position: relative;
+}
+  
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.5); /* Optionnel: ajoute un fond semi-transparent pour améliorer la lisibilité */
+  padding: 20px;
+  border-radius: 5px;
+  color: white; /* Couleur du texte */
+  right: auto;
+}
+
+.carousel-caption h2 {
+  font-size: 2rem; /* Taille de la police pour le titre */
+}
+
+.carousel-caption p {
+  font-size: 1.2rem; /* Taille de la police pour le texte */
+  text-align: justify;
+}
+
+.btn {
+  color: #fff;
+  background-color: #ec7e00;
+  border-color: #ec7e00;
+  padding: 0.5rem 1rem; /* Augmentez le remplissage pour une meilleure apparence */
+  border-radius: 0.5rem;
+  cursor: pointer; /* Ajoutez un curseur pointer pour les boutons */
+  transition: background-color 0.3s ease; /* Ajoutez une transition douce */
+  margin-top: 0.5rem;
+}
+
+.btn:hover {
+  background-color: #cd6116; /* Changez la couleur au survol */
+}

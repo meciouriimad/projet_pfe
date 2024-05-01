@@ -1,0 +1,55 @@
+.FormulaireDem {
+    margin: 3.76% auto;
+    padding: 2.5%;
+    font-size: larger; /* Augmentez la taille de la police */
+    text-align: left;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ajoute une ombre à la boîte */
+    border-radius: 10px; /* Ajoute un peu de courbure aux coins */
+    width: 52rem;
+  }
+  
+  .formlabel {
+    margin-bottom: 1rem; /* Augmentez la marge inférieure pour l'espace */
+    display: block;
+    font-weight: bold;
+  }
+  
+  .formcontrol,
+  .formselect {
+    width: 100%;
+    padding: 0.3rem; /* Ajoute un remplissage uniforme */
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.5rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .formgroup {
+    margin-bottom: 1rem; /* Augmentez la marge inférieure pour l'espace */
+  }
+  
+  .btn {
+    color: #fff;
+    background-color: #ec7e00;
+    border-color: #ec7e00;
+    padding: 0.5rem 1rem; /* Augmentez le remplissage pour une meilleure apparence */
+    border-radius: 0.5rem;
+    cursor: pointer; /* Ajoutez un curseur pointer pour les boutons */
+    transition: background-color 0.3s ease; /* Ajoutez une transition douce */
+    margin-top: 0.5rem; /* Ajoutez un peu de marge supérieure */
+    margin-right: 10px;
+  }
+  
+  .btn:hover {
+    background-color: #cd6116; /* Changez la couleur au survol */
+  }
+  .btn:active {
+    background-color: #ec7e00;
+  }
+  .required {
+    color: red; /* Couleur rouge pour les étoiles */
+  }

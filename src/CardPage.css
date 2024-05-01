@@ -1,0 +1,43 @@
+.card-page-container {
+  margin-top: 4%;
+  margin-left: 2%;
+}
+
+.card-wrapper {
+  margin-bottom: 4%;
+}
+
+.custom-card-style {
+  width: 18rem;
+ height: 60vh;
+}
+
+.card-image {
+  height: 20vh;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0px 12px 30px 0px rgb(38, 37, 37);
+    transform: scale(1.1,1.1);
+    transition: all 800ms;
+}
+.card-text  {
+    text-align: justify;
+    height: 20vh;
+}
+.btn {
+  margin-top: 20vh;
+    color: #fff;
+    background-color: #ec7e00;
+    border-color: #ec7e00;
+    padding: 0.5rem 1rem; /* Augmentez le remplissage pour une meilleure apparence */
+    border-radius: 0.5rem;
+    cursor: pointer; /* Ajoutez un curseur pointer pour les boutons */
+    transition: background-color 0.3s ease; /* Ajoutez une transition douce */
+    margin-top: 0.5rem; /* Ajoutez un peu de marge supérieure */
+    margin-top: auto;
+  }
+  .btn:hover {
+    background-color: #cd6116; /* Changez la couleur au survol */
+  }
+
